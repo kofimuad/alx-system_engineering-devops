@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --format=comma -p -a -n -X -U . .. -1
+ls --format=comma -p -a -X -U . ..
