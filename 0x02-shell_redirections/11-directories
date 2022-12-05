@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -name '[[:alnum]]*' -or -name '.[[:alnum]]*' | wc -
+find . -type d -name '[[:alnum:]]*' -or -name '.[[:alnum:]]*' | wc -l
