@@ -68,3 +68,7 @@ A script that moves all files that begins with an upper case letters to /tmp/u. 
 ## Task 16
 ### Clean Emacs
 A scripts that deletes all files in the current working directory that ends with ~
+
+## Task 17
+### Tree
+A scripts that creates directory welcome/ /welcome/to and /welcome/to/school in the working directory. Using just 2 lines and 2 spaces >> 102-tree
