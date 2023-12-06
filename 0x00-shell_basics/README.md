@@ -64,3 +64,7 @@ A scripts that copies all html files to the current working directory to the par
 ## Task 15
 ### Let's move
 A script that moves all files that begins with an upper case letters to /tmp/u. >> 100-lets_move
+
+## Task 16
+### Clean Emacs
+A scripts that deletes all files in the current working directory that ends with ~
