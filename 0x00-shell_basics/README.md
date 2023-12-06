@@ -48,3 +48,7 @@ This is a script that goes back to the previous directory >> 10-back
 ## Task 11
 ### Lists
 This script would list the files of the current directory, parent of the working directory and /boot in that order >> 11-lists
+
+## Task 12
+### File Type
+A scripts that prints the type of file named iamafile >> 12-file_type
