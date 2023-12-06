@@ -40,3 +40,7 @@ A script that deletes the file betty from /tmp/my_first_directory >> 8-firstdele
 ##Task 9
 ###Bye bye My first directory
 A script that deletes /my_first_directory in the /tmp folder >> 9-firstdirdeletion
+
+##Task 10
+### Back to the future
+This is a script that goes back to the previous directory >> 10-back
