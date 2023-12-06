@@ -72,3 +72,7 @@ A scripts that deletes all files in the current working directory that ends with
 ## Task 17
 ### Tree
 A scripts that creates directory welcome/ /welcome/to and /welcome/to/school in the working directory. Using just 2 lines and 2 spaces >> 102-tree
+
+## Task 18
+### Life is a series of commas not periods
+A scripts that lists files and dir in the current working directory separated by a comma, dir end in /, in alphabetical order and the numbers come first >> 103-commas 
