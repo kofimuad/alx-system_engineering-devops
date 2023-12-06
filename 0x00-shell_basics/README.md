@@ -24,3 +24,7 @@ A script that displays all files contents including hidden files >> 4-listmorefi
 ##Task 6
 ###I love numbers
 Print list of files with user group ID displayed numerically >> 5-listfilesdigitonly
+
+##Task 7
+###Welcome
+A script that creates a directory called my_first_directory in the /tmp folder >> 6-firstdirectory
