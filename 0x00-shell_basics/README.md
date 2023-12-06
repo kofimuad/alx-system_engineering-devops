@@ -36,3 +36,7 @@ A script that moves the file betty from /tmp to /tmp/my_first_directory >> 7-mov
 ##Task 8
 ###Bye bye Betty
 A script that deletes the file betty from /tmp/my_first_directory >> 8-firstdelete
+
+##Task 9
+###Bye bye My first directory
+A script that deletes /my_first_directory in the /tmp folder >> 9-firstdirdeletion
