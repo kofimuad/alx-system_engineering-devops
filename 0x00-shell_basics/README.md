@@ -56,3 +56,7 @@ A scripts that prints the type of file named iamafile >> 12-file_type
 ## Task 13
 ### We are symbols, and inhabit symbols
 A script that creates a symbolic link to /bin/ls with the name __ls__. You create a symbolic link with ln -s [target] [link_name] >> 13-symbolic_link
+
+## Task 14
+### Copy HTML Files
+A scripts that copies all html files to the current working directory to the parent directory and you should use the --update flag. >> 14-copy_html
