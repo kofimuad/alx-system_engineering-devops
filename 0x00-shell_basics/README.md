@@ -19,3 +19,8 @@ A scripts that displays the contents of a pwd in a long format >> 3-listfiles
 ##Task 5
 ###Hidden files
 A script that displays all files contents including hidden files >> 4-listmorefiles
+
+
+##Task 6
+###I love numbers
+Print list of files with user group ID displayed numerically >> 5-listfilesdigitonly
