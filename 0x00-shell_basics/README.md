@@ -32,3 +32,7 @@ A script that creates a directory called my_first_directory in the /tmp folder >
 ##Task 7
 ###Betty in my first directory
 A script that moves the file betty from /tmp to /tmp/my_first_directory >> 7-movethatfile
+
+##Task 8
+###Bye bye Betty
+A script that deletes the file betty from /tmp/my_first_directory >> 8-firstdelete
