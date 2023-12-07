@@ -19,3 +19,7 @@ A script that changes the owner of the file "hello" to the user betty.
 ## Task 4
 ### Empty!
 A script that create an empty file called hello
+
+## Task 5
+### Execute
+A script that adds execute permissions to the owner of the file hello.
