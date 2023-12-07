@@ -47,3 +47,7 @@ A script that changes the mode of one file 'hello' to mirror another file 'olleh
 ## Task 11
 ### Directories
 A script that changes the persions for just subdirectories in the current working directory. Giving executable permissions to the owner, group owner and other users >> 11-directories_permissions
+
+## Task 12
+### More directories
+This script creates a file my_dir and sets it with permissions 751 at the same time. use the flag --mode=[mode] >> 12-directory_permissions
