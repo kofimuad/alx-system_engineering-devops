@@ -75,4 +75,8 @@ A scripts that creates directory welcome/ /welcome/to and /welcome/to/school in 
 
 ## Task 18
 ### Life is a series of commas not periods
-A scripts that lists files and dir in the current working directory separated by a comma, dir end in /, in alphabetical order and the numbers come first >> 103-commas 
+A scripts that lists files and dir in the current working directory separated by a comma, dir end in /, in alphabetical order and the numbers come first >> 103-commas
+
+## Task 19
+### File type:School
+A magic file school.mgc that can be used with the file command to detect School data types.. 0 offset, string SCHOOL. !:mime School >> school.mgc
