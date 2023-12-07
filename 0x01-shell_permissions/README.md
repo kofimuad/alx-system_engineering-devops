@@ -35,3 +35,7 @@ A script that adds executable privileges to all users. >> 7-everybody
 ## Task 8
 ### James Bond
 A script that scraps all privileges from everyone except other users, they have all permissions >> 8-James_Bond.
+
+## Task 9
+### John Doe
+A script that sets the mode of the file hello to this: -rwxr-x-wx >> 9-John_Doe
