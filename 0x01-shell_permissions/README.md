@@ -51,3 +51,7 @@ A script that changes the persions for just subdirectories in the current workin
 ## Task 12
 ### More directories
 This script creates a file my_dir and sets it with permissions 751 at the same time. use the flag --mode=[mode] >> 12-directory_permissions
+
+## Task 13
+### Change group
+A script that changes the group owner to school for the file hello >> 13-change_group
