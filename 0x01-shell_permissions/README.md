@@ -55,3 +55,7 @@ This script creates a file my_dir and sets it with permissions 751 at the same t
 ## Task 13
 ### Change group
 A script that changes the group owner to school for the file hello >> 13-change_group
+
+## Task 14
+### Owner and group
+A scipt that changes the owner to vincent and the group owner to staff for all files and directories. We are going to use chown: check man chown.. flag used is -R >> 100-change_owner_and_group
