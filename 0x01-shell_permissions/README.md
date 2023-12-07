@@ -27,3 +27,7 @@ A script that adds execute permissions to the owner of the file hello NB: you sh
 ## Task 6
 ### Multiple Permissions
 A script that add execute permissions to owner and group owner and read permission to other users >> 6-multiple_permissions.
+
+## Task 7
+### Everybody!
+A script that adds executable privileges to all users. >> 7-everybody
