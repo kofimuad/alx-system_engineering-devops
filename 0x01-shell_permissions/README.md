@@ -43,3 +43,7 @@ A script that sets the mode of the file hello to this: -rwxr-x-wx >> 9-John_Doe
 ## Task 10
 ### Look in the mirror
 A script that changes the mode of one file 'hello' to mirror another file 'olleh' >> 10-mirror_permissions.
+
+## Task 11
+### Directories
+A script that changes the persions for just subdirectories in the current working directory. Giving executable permissions to the owner, group owner and other users >> 11-directories_permissions
