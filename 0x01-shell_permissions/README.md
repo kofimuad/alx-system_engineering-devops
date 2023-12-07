@@ -31,3 +31,7 @@ A script that add execute permissions to owner and group owner and read permissi
 ## Task 7
 ### Everybody!
 A script that adds executable privileges to all users. >> 7-everybody
+
+## Task 8
+### James Bond
+A script that scraps all privileges from everyone except other users, they have all permissions >> 8-James_Bond.
