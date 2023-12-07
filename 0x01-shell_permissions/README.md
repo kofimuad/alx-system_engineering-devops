@@ -67,3 +67,7 @@ A script that changes the owner and group owner of a symbolic link. use man chow
 ## Task 16
 ### If only
 A script that changes the owner of a file hello to betty if it is owned by the user guillaume. I used chown and the --from flag.
+
+## Task 17
+### Star Wars
+A script that plays the Star Wars IV episode in the terminal >> 103-Star_wars
