@@ -63,3 +63,7 @@ A scipt that changes the owner to vincent and the group owner to staff for all f
 ## Task 15
 ### Symbolic links
 A script that changes the owner and group owner of a symbolic link. use man chown. I used the flaf -h in this code >> 101-symbolic_link_permissions
+
+## Task 16
+### If only
+A script that changes the owner of a file hello to betty if it is owned by the user guillaume. I used chown and the --from flag.
