@@ -39,3 +39,7 @@ A script that scraps all privileges from everyone except other users, they have 
 ## Task 9
 ### John Doe
 A script that sets the mode of the file hello to this: -rwxr-x-wx >> 9-John_Doe
+
+## Task 10
+### Look in the mirror
+A script that changes the mode of one file 'hello' to mirror another file 'olleh' >> 10-mirror_permissions.
