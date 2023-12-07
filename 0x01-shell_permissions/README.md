@@ -23,3 +23,7 @@ A script that create an empty file called hello
 ## Task 5
 ### Execute
 A script that adds execute permissions to the owner of the file hello NB: you should give read permissions to other users >> 5-execute
+
+## Task 6
+### Multiple Permissions
+A script that add execute permissions to owner and group owner and read permission to other users >> 6-multiple_permissions.
