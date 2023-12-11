@@ -28,3 +28,6 @@ This is a script that prints exactly this: \*\\'"Best School"\'\\*$\?\*\*\*\*\*:
 
 ## Task 8 - Save current state of directory
 This script writes into the file ls_cwd_content the results of ls -la command. use the > operator. 
+
+## Task 9 - Duplicate last line
+A script that duplicates the last line of the file iacta.
