@@ -16,3 +16,6 @@ A script that displays the contents of 2 files.
 
 ## Task 4 - Last lines of a file
 A script that displays the last 10 lines of the file /etc/passwd
+
+## Task5 - I'd prefer the first ones actually
+A script that displays the first 10 lines of the file /etc/passwd - use the |
