@@ -48,3 +48,6 @@ This is a script that displays unique lines from a list of code. I used sort and
 
 ## Task 14 - It must be in that file
 A script that displays lines containing the pattern "root" from /etc/passwd
+
+## Task 15 - Count that word
+a script that displays the number of lines with the pattern "bin"
