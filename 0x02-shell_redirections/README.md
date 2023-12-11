@@ -31,3 +31,6 @@ This script writes into the file ls_cwd_content the results of ls -la command. u
 
 ## Task 9 - Duplicate last line
 A script that duplicates the last line of the file iacta.
+
+## Task 10 - No more javascript
+A script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders. use the find command. 
