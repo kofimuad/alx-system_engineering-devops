@@ -13,3 +13,6 @@ This a a script that displays a file in standard output
 
 ## Task 3 - What about two?
 A script that displays the contents of 2 files. 
+
+## Task 4 - Last lines of a file
+A script that displays the last 10 lines of the file /etc/passwd
