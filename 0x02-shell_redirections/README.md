@@ -39,3 +39,6 @@ A script that deletes all the regular files (not the directories) with a .js ext
 Write a script that counts the number of directories and sub-directories in the current directory.
 The current and parent directories should not be taken into account
 Hidden directories should be counted
+
+## Task 12 - What's new
+A script that outputs the top newest files in the current working directory
