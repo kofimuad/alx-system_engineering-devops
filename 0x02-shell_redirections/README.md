@@ -25,3 +25,6 @@ A script that prints out the third line of a file. (I would be using cat head an
 
 ## Task 7 - It is a good file that cuts iron without making a noise
 This is a script that prints exactly this: \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) - I used the \ to help find my solution
+
+## Task 8 - Save current state of directory
+This script writes into the file ls_cwd_content the results of ls -la command. use the > operator. 
