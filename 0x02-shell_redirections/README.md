@@ -42,3 +42,9 @@ Hidden directories should be counted
 
 ## Task 12 - What's new
 A script that outputs the top newest files in the current working directory
+
+## Task 13 - Being unique is better than being perfect
+This is a script that displays unique lines from a list of code. I used sort and uniq commands to solve
+
+## Task 14 - It must be in that file
+A script that displays lines containing the pattern "root" from /etc/passwd
