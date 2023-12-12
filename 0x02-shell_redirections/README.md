@@ -77,3 +77,6 @@ Based on the the /etc/passwd file
 
 ## Task 23 - Empty casks make the most noise
 A script that finds all empty file and directories in the current directory and all sub-directories
+
+## Task 24 - A gif is worth ten thousand words
+Lists the files with .gif extension in the current dir and sub dir. You need to write a code that removes the extension .gif
