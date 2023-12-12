@@ -50,4 +50,7 @@ This is a script that displays unique lines from a list of code. I used sort and
 A script that displays lines containing the pattern "root" from /etc/passwd
 
 ## Task 15 - Count that word
-a script that displays the number of lines with the pattern "bin"
+A script that displays the number of lines with the pattern "bin"
+
+## Task 16 - What's next
+A script that display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
