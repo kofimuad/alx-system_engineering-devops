@@ -74,3 +74,6 @@ A script that reverses its input
 ## Task 22 - DJ Cut Killer
 a script that displays all users and their home directories, sorted by users.
 Based on the the /etc/passwd file
+
+## Task 23 - Empty casks make the most noise
+A script that finds all empty file and directories in the current directory and all sub-directories
