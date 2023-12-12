@@ -61,3 +61,6 @@ A script that displays all the lines in the file /etc/passwd that do not contain
 ## Task 18 - Letters only please
 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 include capital letters as well
+
+## Task 19 - A to Z
+A script that replaces all characters A and c from input to Z and e respectively.
