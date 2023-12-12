@@ -57,3 +57,7 @@ A script that display lines containing the pattern “root” and 3 lines after 
 
 ## Task 17 - I hate bins
 A script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin” - I used the -v option.
+
+## Task 18 - Letters only please
+Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+include capital letters as well
