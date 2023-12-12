@@ -64,3 +64,6 @@ include capital letters as well
 
 ## Task 19 - A to Z
 A script that replaces all characters A and c from input to Z and e respectively.
+
+## Task 20 -  Without C, you would live in hiago
+A script that removes all letters c and C from input.
