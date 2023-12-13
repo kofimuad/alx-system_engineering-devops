@@ -13,3 +13,6 @@ A script that adds /action to PATH. used the export command in my code.
 
 ## Task 3 - If the path be beautiful, let us not ask where it leads
 A script that counts the number of directories in the path. use of the tr and wc commands.
+
+## Task 4 - Global variables
+A script that list all environment variables
