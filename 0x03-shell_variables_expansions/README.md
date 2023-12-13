@@ -19,3 +19,6 @@ A script that list all environment variables
 
 ## Task 5 - Local variables
 lists all local variables and environment variables and functions.
+
+## Task 6 - Local variable
+A script that creates a new local variable.
