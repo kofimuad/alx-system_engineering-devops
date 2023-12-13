@@ -25,3 +25,6 @@ A script that creates a new local variable.
 
 ## Task 7 - Global variable
 A script that creates a new global variable. use export.
+
+## Task 8 - Every addition to true knowledge is an addition to human power
+A script that adds the 128 to the env var TRUEKNOWLEDGE and print the answer and then a new line. I am gonna use the echo -e
