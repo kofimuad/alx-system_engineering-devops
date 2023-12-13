@@ -49,3 +49,6 @@ A script that converts a number from base 10 to base 16
 
 ## Task 15 - Everyone is a proponent of strong encryption
 A script that encodes and decodes text using the rot13 encryption. I used tr mostly
+
+## Task 16 - The eggs of the brood need to be an odd number.
+A script that prints every other line from the input, starting with the first line.
