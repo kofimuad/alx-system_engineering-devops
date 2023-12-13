@@ -31,3 +31,6 @@ A script that adds the 128 to the env var TRUEKNOWLEDGE and print the answer and
 
 ## Task 9 - Divide and Rule
 A script that prints the result of POWER divided by DIVIDE, followed by a new line. POWER and DIVIDE are both env vars.
+
+## Task 10 - Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+A script that displays the result of BREATH to the power LOVE
