@@ -16,3 +16,6 @@ A script that counts the number of directories in the path. use of the tr and wc
 
 ## Task 4 - Global variables
 A script that list all environment variables
+
+## Task 5 - Local variables
+lists all local variables and environment variables and functions.
