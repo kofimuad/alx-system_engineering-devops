@@ -22,3 +22,6 @@ lists all local variables and environment variables and functions.
 
 ## Task 6 - Local variable
 A script that creates a new local variable.
+
+## Task 7 - Global variable
+A script that creates a new global variable. use export.
