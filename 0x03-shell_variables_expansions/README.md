@@ -52,3 +52,6 @@ A script that encodes and decodes text using the rot13 encryption. I used tr mos
 
 ## Task 16 - The eggs of the brood need to be an odd number.
 A script that prints every other line from the input, starting with the first line.
+
+## Task 17 - I'm an instant star. Just add water and stir.
+Adds 2 numbers stored in WATER and STIR and they are in base bestchol.
